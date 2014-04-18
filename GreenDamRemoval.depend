@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1245339352 source:c:\greendamremoval\regproc.cpp
+	"Define.h"
+	"RegProc.h"
+
+1245319934 c:\greendamremoval\define.h
+
+1245323762 c:\greendamremoval\regproc.h
+	<windows.h>
+
+1245339962 source:c:\greendamremoval\serproc.cpp
+	"Define.h"
+	"SerProc.h"
+
+1245323847 c:\greendamremoval\serproc.h
+	<windows.h>
+
+1245432797 source:c:\greendamremoval\main.cpp
+	<string.h>
+	<iostream>
+	"Define.h"
+	"FileProc.h"
+	"RegProc.h"
+	"SerProc.h"
+
+1245323399 c:\greendamremoval\fileproc.h
+
+1245326988 source:c:\greendamremoval\fileproc.cpp
+	<windows.h>
+	"Define.h"
+	"FileProc.h"
+
+1245433916 source:c:\greendamremoval\urc.rc
+
